@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/wiseby/SourceCode/Projects/PiCarDashboard/src/gui/Content/Background.png","/home/wiseby/SourceCode/Projects/PiCarDashboard/src/gui/Content/bin/DesktopGL/Content/Background.xnb","TextureProcessor","Texture2DContent",6000,1440085,0.2051854
+"/home/wiseby/SourceCode/Projects/PiCarDashboard/src/gui/Content/Needle.png","/home/wiseby/SourceCode/Projects/PiCarDashboard/src/gui/Content/bin/DesktopGL/Content/Needle.xnb","TextureProcessor","Texture2DContent",2052,1440085,0.0520293
