@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{650DB0F6-DCB6-4F91-A7A9-E6EE20963D0B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gui", "gui", "{650DB0F6-DCB6-4F91-A7A9-E6EE20963D0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "src\gui\src.csproj", "{88DC577E-091F-4FC7-B84A-0A985FED2205}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gui", "src\gui\gui.csproj", "{88DC577E-091F-4FC7-B84A-0A985FED2205}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
